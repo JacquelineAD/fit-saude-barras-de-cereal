@@ -210,3 +210,8 @@ footer.rodape{
     text-decoration: none;
 
 }
+
+.linkrodape:hover{
+    color: var(--cor04);
+    transition: 0.5s;
+}
