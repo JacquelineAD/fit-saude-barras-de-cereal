@@ -1,0 +1,29 @@
+FONTES:
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap'); titulo barras
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap'); descrição
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap'); titulo principal
+
+'Abril Fatface', cursive;
+'Kani', sans-serif;
+font-family: 'Dosis', sans-serif;
+
+
+
+
+
+
+CORES:
+
+#ffffff;
+#000000;
+#00695C; verde fechado
+#004D40; para letras da descrição e tabela
+#00897B; verde mais aberto
+#2E7D32; verde musgo
+#BDBDBD; cinza
+
+
+
+
+
